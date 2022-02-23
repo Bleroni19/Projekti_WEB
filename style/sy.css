@@ -1,5 +1,5 @@
 .backround{
-  background-image: white;
+  background-image: rgb(83, 77, 77);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
@@ -113,7 +113,7 @@ padding: 150px 90px;
 }
 
 body {
-  background: hsl(0, 0%, 90%);
+  background: hsl(0, 49%, 36%);
   color: #fff;
   font:12px/18px 'HelveticaNeue', Helvetica, Arial, sans-serif;
 }
@@ -247,7 +247,7 @@ html,body {
 
 
 .backround-3{
-  background-image: white;
+  background-image: rgb(180, 65, 65);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
