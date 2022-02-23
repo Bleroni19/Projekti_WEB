@@ -1,0 +1,9 @@
+.backround-1{
+    background-image: rgb(73, 72, 161);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+      height: 900px;
+      width: 100%; 
+
+}
