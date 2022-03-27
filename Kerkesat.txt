@@ -1,0 +1,25 @@
+1.Faqes me jashtu News !!
+
+2.Login si admin mu ba ose si user i thjesht,
+check bahet ne php, nese o user me i pas premmision te limitume
+nese o adming pa limit
+
+3.Mi ru tdhanat e kejt projektit qe o ne database : me php dhe MySql
+	3.1. Me pas qasje administartori kush ka modifiku dicka ne faqe
+	3.2. Me pas produkte/lajme, description me nje fjale kta e kemi kry!
+	3.3. Contact form, me pas mundesi useri me na lajmru naj problem ose dicka
+		dhe te ruhen ne database.DASHBOARD me nje fjal.
+
+4.Dashbordin me ba, ne dashboard mujm me ba nje tabel me te dhenat reale nga databaza,
+kjo na mundeson nepermjet dashboardit me fshi,modifiku,edit text ose dicka e jo me shku ndatabaz.
+
+5.Te dhenat e shkruar ne projekt te insertohen ne databaz dhe te kete mundesi editimi!
+
+6.Valdim ne front dhe back end, kodi te jete ne PHP dhe i bazuar ne Objekte : Object Oriented PHP
+Shumica e kodit duhet te jete nga PHP dhe mos te kete shume kod procedural (mix me html pi bjen),
+te kete klasa,atribute komplet qa perfshihet ne OOP
+	6.1.Nese perdorim kod procedural shume dmth athere -10pike
+7.Slider kem u kry
+8.Perdorimin e Git dhe GitHubit 
+9.Duhet me pas Backend per mu vlersu.
+10.Mbrojtja ne full-stack cdo sen qa kem ba !

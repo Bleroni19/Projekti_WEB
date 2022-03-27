@@ -1,4 +1,8 @@
+
+
 .backround{
+ 
+
   background-image: rgb(83, 77, 77);
   background-position: center;
   background-attachment: fixed;
@@ -76,7 +80,7 @@ padding: 150px 90px;
 }
 
 .navigation a:hover {
-  background-color: #ddd;
+  background-color: rgb(221, 221, 221);
   color: black;
 }
 
@@ -95,6 +99,8 @@ padding: 150px 90px;
   margin-left: 35%;
   width: 20%;
 }
+
+
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
 *,*:after,*:before {
@@ -461,7 +467,7 @@ top: 0%;
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
-	height: 1750px;
+	height: 1350px;
 	width: 100%;
 }
 .box{
@@ -687,10 +693,10 @@ button8{
 
 
 .image {
-  margin-top: 40%;
+  margin-top: 60%;
   position: relative;
   width: 400px;
-  margin-left: -390%;
+  margin-left: -250%;
 }
 
 .image__img {
@@ -747,10 +753,10 @@ button8{
 }
 
 .image2 {
-  margin-top: -135%;
+  margin-top: -100%;
   position: relative;
   width: 400px;
-  margin-left: -225%;
+  margin-left: -100%;
 }
 
 .image__img2 {
@@ -807,10 +813,10 @@ button8{
 }
 
 .image3 {
-  margin-top: -135%;
+  margin-top: -100%;
   position: relative;
   width: 400px;
-  margin-left: -50%;
+  margin-left: 40%;
 }
 
 .image__img3 {
@@ -988,7 +994,7 @@ footer img {
 .pagination {
   display: inline-block;
   margin-top: 50%;
-  margin-left: -180%;
+  margin-left: -110%;
   
 
 }
