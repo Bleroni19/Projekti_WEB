@@ -3,8 +3,36 @@
 	
 margin-left: -20%;
 
+}  .nav-list{
+	display: flex;
+	list-style: none;
+	color: black;
 }
-
+.list-div{
+  height: 50px;
+	position: absolute;
+	left: 75%;
+    color: black;
+  margin-top: -6.7%;
+}
+.nav-list li{
+	margin-left: 20px;
+    color: black;
+}
+li :hover{
+	background-color:#CAD0D2;
+  }
+  a:link { text-decoration: none; }
+  
+  aa:hover{
+	background-color:#CAD0D2;
+	border-radius: 25px;
+  }
+  
+  #aa{
+  color: black;
+  font-family: sans-serif;
+  }
 
 
 
@@ -30,7 +58,7 @@ time,mark,audio,video{
     vertical-align:baseline;
 
 }
-/* HTML5 display-role reset for older browsers */
+
 article,aside,details,figcaption,figure,
 footer,header,hgroup,menu,nav,section{
     display:block;
@@ -49,12 +77,7 @@ q:before,q:after{
     content:’’;
     content:none;
 }
-/* remember to define visible focus styles! 
-:focus{
-    outline:?????;
-} */
 
-/* remember to highlight inserts somehow! */
 ins{
     text-decoration:none;
 }
@@ -67,9 +90,7 @@ table{
     border-spacing:0;
 }
 
-/*------------------------------------*\
-    $MAIN
-\*------------------------------------*/
+
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
 
@@ -81,7 +102,7 @@ body {
 	background-color: #f6f6f6;
 }
 
-/* Typography */
+
 
 h1 {
 	font-size: 28px;

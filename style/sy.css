@@ -599,6 +599,18 @@ button3{
 
 }
 
+.offerimage1{
+  margin-top: 200%;
+  margin-left: -340%;
+}
+
+
+.offerimage3{
+  margin-top: -200%;
+  margin-left: -0.95%;
+}
+
+
 .boxtext3{
   margin-top: 5%;
   margin-left: -5%;
@@ -628,6 +640,7 @@ button4{
 	cursor: pointer;
   
 }
+
 
 
 
@@ -693,10 +706,10 @@ button8{
 
 
 .image {
-  margin-top: 60%;
+  margin-top: 25%;
   position: relative;
   width: 400px;
-  margin-left: -250%;
+  margin-left: -300%;
 }
 
 .image__img {
@@ -756,7 +769,7 @@ button8{
   margin-top: -100%;
   position: relative;
   width: 400px;
-  margin-left: -100%;
+  margin-left: -175%;
 }
 
 .image__img2 {
@@ -816,7 +829,7 @@ button8{
   margin-top: -100%;
   position: relative;
   width: 400px;
-  margin-left: 40%;
+  margin-left: -40%;
 }
 
 .image__img3 {
@@ -993,7 +1006,7 @@ footer img {
 
 .pagination {
   display: inline-block;
-  margin-top: 50%;
+  margin-top: 10%;
   margin-left: -110%;
   
 
@@ -1014,6 +1027,11 @@ footer img {
 }
 
 .pagination a:hover:not(.active) {background-color: #ddd;}
+
+.offerimage{
+  margin-top: 200%;
+  margin-left: -250%;
+}
 
 
 
