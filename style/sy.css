@@ -590,20 +590,20 @@ button3{
   background-image: white;
   background-attachment: fixed;
   background-size: cover;
-  width: 400px;
+  width: 500px;
   height: 300px;
  
 }
 
 .offerimage1{
-  margin-top: 200%;
-  margin-left: -340%;
+  margin-top: 150%;
+  margin-left: -250%;
 }
 
 
 .offerimage3{
   margin-top: -200%;
-  margin-left: -0.95%;
+  margin-left: -1%;
 }
 
 
@@ -701,7 +701,7 @@ button8{
   margin-top: 25%;
   position: relative;
   width: 400px;
-  margin-left: -300%;
+  margin-left: -250%;
 }
 
 .image__img {
@@ -758,10 +758,10 @@ button8{
 }
 
 .image2 {
-  margin-top: -100%;
+  margin-top: -75%;
   position: relative;
   width: 400px;
-  margin-left: -175%;
+  margin-left: -130%;
 }
 
 .image__img2 {
@@ -818,10 +818,10 @@ button8{
 }
 
 .image3 {
-  margin-top: -100%;
+  margin-top: -80%;
   position: relative;
   width: 400px;
-  margin-left: -40%;
+  margin-left: -0%;
 }
 
 .image__img3 {
@@ -998,8 +998,8 @@ footer img {
 
 .pagination {
   display: inline-block;
-  margin-top: 10%;
-  margin-left: -110%;
+  margin-top: 40%;
+  margin-left: -100%;
   
 
 }
