@@ -53,7 +53,6 @@
 			}, false);
 		}
 		
-		
 	};
 	
 	document.addEventListener( "DOMContentLoaded", function() {
