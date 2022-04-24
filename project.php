@@ -3,14 +3,14 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="style/sy.css">
+<link rel="stylesheet" type="text/css" href="css/sy.css">
 <title></title>
 </head>
 <body>
 
 
 <body>
-    <script type="text/javascript" src="js/web.js">
+    <script type="text/javascript" src="web.js">
 
       
     </script>
@@ -21,10 +21,10 @@
     <div class="backround">
 
       <div class="navigation">
-        <a class="links" href="./about us/login.html">Sign up</a>
-        <a class="links" href="./about us/login.html">My Account</a>
-          <a href="./products/products.html">Products</a>
-            <a href="./about us/aboutus.html">About Us</a>
+        <a class="links" href="./signUp/signUp.php">Sign up</a>
+        <a class="links" href="./login/logIn.php">My Account</a>
+          <a href="./products/shop.php">Products</a>
+            <a href="./aboutUs/aboutus.html">About Us</a>
             <a href="./project.html">Home</a>
             <div id="bm"img src="photos/bm.png" width="150px" height="150px" left="0px" ></a>
               <input type="text" placeholder="Search">
